@@ -2,7 +2,7 @@
 
 ![Scratch](https://github.com/vitorfb33/scratch/blob/main/assets/icons/scratch.png)
 
-# scratch
+# Scratch
 Introdução a logica de programação com scratch
 ## Autor 
 Vitor Fialho Bergami

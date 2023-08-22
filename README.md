@@ -7,4 +7,5 @@ Introdução a logica de programação com scratch
 ## Autor 
 Vitor Fialho Bergami
 ## Projetos
-[calculo da media](https://scratch.mit.edu/projects/881964775/)
+-[calculo da media](https://scratch.mit.edu/projects/881964775/)
+-[Conversor de temperatura em Fahrenheit/grauscelsius](https://scratch.mit.edu/projects/882608510/)

@@ -6,3 +6,5 @@
 Introdução a logica de programação com scratch
 ## Autor 
 Vitor Fialho Bergami
+## Projetos
+[calculo da media](https://scratch.mit.edu/projects/881964775/)

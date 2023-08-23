@@ -15,3 +15,6 @@ Vitor Fialho Bergami
 - [PDV](https://scratch.mit.edu/projects/883235596/)
 - [Regra de 3](https://scratch.mit.edu/projects/882607767/)
 - [calcular  o valor da hora de serviço](https://scratch.mit.edu/projects/884689699/)
+
+** Hora do codigo
+![Minecraft](https://github.com/vitorfb33/scratch/blob/main/assets/icons/minecraft.jpg)

@@ -21,7 +21,7 @@ Vitor Fialho Bergami
 - [NOT](https://scratch.mit.edu/projects/888069369/)
 - [OR](https://scratch.mit.edu/projects/888077276/)
 - [AND](https://scratch.mit.edu/projects/888051244/)
-- [erro de procentagem](https://scratch.mit.edu/projects/888440262/)
+- [erro de porcentagem](https://scratch.mit.edu/projects/888440262/)
 
 ## Hora do codigo
 ![Minecraft](https://github.com/vitorfb33/scratch/blob/main/assets/icons/minecraft.jpg)

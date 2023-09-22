@@ -23,7 +23,7 @@ Vitor Fialho Bergami
 - [AND](https://scratch.mit.edu/projects/888051244/)
 - [erro de porcentagem](https://scratch.mit.edu/projects/888440262/)
 - [Passos para Quilometros](https://scratch.mit.edu/projects/888801858/)
-- [Space Invaders](https://scratch.mit.edu/projects/896356625/)
+- [Space Invaders]()
 
 ## Hora do codigo
 ![Minecraft](https://github.com/vitorfb33/scratch/blob/main/assets/icons/minecraft.jpg)
